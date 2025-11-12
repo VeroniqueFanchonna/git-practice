@@ -1,0 +1,4 @@
+Name: Naruto
+Age: 15
+Favorite Color: Orange
+ls -Age
