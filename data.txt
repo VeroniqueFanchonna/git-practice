@@ -2,3 +2,6 @@ Name: Naruto
 Age: 15
 Favorite Color: Orange
 ls -Age
+skills : razengan
+location : konoa
+Power : kurama
