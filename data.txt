@@ -1,6 +1,6 @@
 Name: Naruto
 Age: 15
-trainer : Jiraya sense
+Dream: To become Hokague
 ls -Age
 skills : razengan
 location : konoa
